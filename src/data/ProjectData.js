@@ -42,7 +42,7 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/html5.svg",
+    img: "https://raw.githubusercontent.com/komal-tiwari-dev/Portfolio-/ece7d79bb98b498961733332ab791fb96e9aa8ce/src/Assets/Materials/Skills/html5.svg",
     name: "HTML",
   },
   {
