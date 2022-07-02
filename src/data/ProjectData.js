@@ -2,37 +2,39 @@
 export const ProjectList = [
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    title: "KIMAYA Clone",
+    description:
+      "Kimaya is an E-Commerce fruit-selling website. The Project is to clone the website within 5 days.",
+    tech_stack: "ReactJs, Redux, JSON, Chakra, Git",
+    github_url: "https://github.com/akshaykanherkar7/KimayeClone",
+    demo_url: "https://kimayeclone.netlify.app/",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
-    title: "Fiber",
+    title: "FAB-BAG Clone",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "Fabbag is a customized cosmetic and beauty counselling website. The project is to replicating the features of the website.",
+    tech_stack: "Html, Css, Javascript, JSON",
+    github_url: "https://github.com/komal-tiwari-dev/FAB-BAG-Clone",
+    demo_url: "https://voluble-treacle-07ecfc.netlify.app/",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
+    title: "Life Style Store",
+    description:
+      "LifeStyleStore is an E-Commerce website for attire. Replicated most of the major features of website.",
+    tech_stack: "HTML, CSS, Javascript, Local Storage, Material-UI.",
+    github_url: "https://github.com/komal-tiwari-dev/LifeStyle-Store.git",
+    demo_url: "https://g-lalithsai.github.io/LifeStyle-Store/",
   },
   {
     img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "Ecommerce website",
+    title: "FOOD RECEPIE APP",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "Created an Food Recepie App user have to 100+ food recepies with instruction and video instruction.",
+    tech_stack: "HTML, CSS, JavaScript, API, Git",
+    github_url: "https://github.com/komal-tiwari-dev/Food-Receipe-WebApp",
+    demo_url: "https://komal-tiwari-dev.github.io/Food-Receipe-WebApp/",
   },
 ];
 
