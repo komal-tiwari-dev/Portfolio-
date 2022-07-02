@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
+    img: "https://raw.githubusercontent.com/komal-tiwari-dev/Portfolio-/master/src/Assets/Materials/Kimaya.png",
     title: "KIMAYA Clone",
     description:
       "Kimaya is an E-Commerce fruit-selling website. The Project is to clone the website within 5 days.",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "https://kimayeclone.netlify.app/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
+    img: "https://raw.githubusercontent.com/komal-tiwari-dev/Portfolio-/master/src/Assets/Materials/FabBag.png",
     title: "FAB-BAG Clone",
     description:
       "Fabbag is a customized cosmetic and beauty counselling website. The project is to replicating the features of the website.",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "https://voluble-treacle-07ecfc.netlify.app/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+    img: "https://raw.githubusercontent.com/komal-tiwari-dev/Portfolio-/master/src/Assets/Materials/LifeStyleStore.png",
     title: "Life Style Store",
     description:
       "LifeStyleStore is an E-Commerce website for attire. Replicated most of the major features of website.",
@@ -28,7 +28,7 @@ export const ProjectList = [
     demo_url: "https://g-lalithsai.github.io/LifeStyle-Store/",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
+    img: "https://raw.githubusercontent.com/komal-tiwari-dev/Portfolio-/master/src/Assets/Materials/Food%20Recepie.png",
     title: "FOOD RECEPIE APP",
     description:
       "Created an Food Recepie App user have to 100+ food recepies with instruction and video instruction.",

@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/logo.png"
+            src="https://raw.githubusercontent.com/komal-tiwari-dev/Portfolio-/master/src/Assets/Materials/logo.png"
             alt="logo"
           />
         </Logo>
@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/gurupawar/"
+            href="https://drive.google.com/file/d/1faypwG93z74POoTmUCc5gfwXsTv0NSoj/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
